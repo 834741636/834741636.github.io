@@ -70,9 +70,9 @@ function  create() {
         alert("ID或跳转地址不能为空！");
         return false;
     }
-    kd.href = 'https://你的域名/?id='+myid.value+'&url='+url.value; //修改此处的域名 必须要SSL证书
+    kd.href = 'https://834741636.github.io/?id='+myid.value+'&url='+url.value; //修改此处的域名 必须要SSL证书
     kd.style = ''; 
-    kd.innerText = 'https://你的域名/?id='+myid.value+'&url='+url.value; //修改此处的域名  必须要SSL证书  
+    kd.innerText = 'https://834741636.github.io/?id='+myid.value+'&url='+url.value; //修改此处的域名  必须要SSL证书  
 }
 </script>
 <div id="bob">
